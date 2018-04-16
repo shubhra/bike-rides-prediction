@@ -1,3 +1,4 @@
-# bike-rides-prediction
-Predict bike sharing rides using a neural network
-Shared as a jupyter notebook
+## Bike Rides Prediction
+Predict bike sharing rides using a Neural Network
+
+The data comes from: [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
